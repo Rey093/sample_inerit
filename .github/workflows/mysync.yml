@@ -27,3 +27,4 @@ jobs:
           upstream_branch: develop # defaults to main
           pr_branch_name_prefix: chore(template-sync)
           pr_labels: chore,📚 template-sync
+          pr_title: "chore(template-sync): sync from template repo"
